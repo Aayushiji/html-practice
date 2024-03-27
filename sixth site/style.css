@@ -1,0 +1,143 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    color: white;
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: underline;
+}
+.img{
+    background-image: url("https://assets.architecturaldigest.in/photos/62de7667499ca8eca01447ae/16:9/w_1920,c_limit/The%20infinity%20pool%20under%20the%20shade%20of%20a%20mango%20tree.png");
+    height: 90vh;
+    width: 100%;
+}
+.text{
+    text-align: center;
+    color: cadetblue;
+    font-size: 80px;
+    padding: 60px;
+}
+.butt{
+    height: 40px;
+    width: 10%;
+    margin-top: 380px;
+    margin-right: 350px;
+    background-color: gray;
+}
+.middle{
+    height: 500px;
+    width: 90%;
+    display:flex;
+}
+.middle1{
+    padding-top: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.img2{
+    height: 600px;
+    padding-bottom: 100px;
+    margin-left: 5%;
+    margin-bottom: 60px;
+    
+}
+.fouth{
+    text-align: center;
+    margin-right: 50px;
+}
+.fouth1{
+    text-align: center;
+    color: brown;
+}
+.fouth2{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    padding-top: 60px;
+    text-decoration: underline;
+}
+.side{
+    display: flex;
+    margin-left: 50%;
+    
+}
+.img3{
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+}
+
+
+.container{
+    text-align: center;
+    background-image: url("https://images.ctfassets.net/rxqefefl3t5b/6gYazCYOaDRzJSlFI82XUn/1b05d2be8d976b105c9d5d620f84217b/Virgin_Hotels_Dallas_The_Know_Email_1742x1080_copy.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 90%;
+    opacity: 0.7;
+    padding: 80px;
+    margin: 0px;
+    display: flex;
+
+}
+.forms{
+    padding: 100px;
+    background-color: white;
+    width: 20%;
+    height: 450px;
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.left{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    margin-left: 80px;    
+}
+.down{
+    text-align: left;
+    color: black;
+    font-size: 30px;
+    margin-top: 100px;
+    padding-top: 90px;
+    
+    margin-left: 60px;
+
+}
+.first{
+    padding: 10px;
+    margin: 15px;
+}
+.centre{
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+.down_centre{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.last{
+    padding: 10px;
+    width: 70%;
+    background-color: gray;
+}
+
