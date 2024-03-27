@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+}
+ .nav{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+}
+.nav a{
+    font-size: 30px;
+    padding-left: 30px;
+    color: white;
+}
+.box1{
+    font-size: 40px;
+    height: 250px;
+    width: 100%;
+    background-color: rgb(162, 129, 86);
+    padding-top: 80px;
+
+}
+.name{
+    font-size: 50px;
+    margin-left: 400px;
+}
+.box2{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    border-radius: 5px;
+}
+.box2 a{
+    font-size: 30px;
+    color: white;
+    padding-left: 30px;
+}
+.box3{
+    border: 10px solid white;
+    background-color: black;
+    background-image: url("https://img.freepik.com/free-photo/portrait-happy-lady-sunglasses-standing-with-colorful-shopping-bags-hands-pink-background-young-woman-standing-white-shirt-denim-shorts_574295-1182.jpg?size=626&ext=jpg&ga=GA1.1.1853494894.1710137123&semt=ais");
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 100%;
+    font-size: 30px;
+}
+.side1{
+    font-size: 30px;
+    margin-left: 800px;
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+}
+.side2{
+    font-size: 50px;
+    margin-left: 900px;
+    color: white;
+}
+.side3{
+    margin: 10px;
+    font-size: 20px;
+    margin-left: 950px;
+    padding: 10px;
+    background-color: #FFD700;
+    border-radius: 10px;
+}
+.box4{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+.box4 p{
+    font-size: 50px;
+}
+.name2{
+    margin-left: 300px;
+}
+.box5{
+    height: 500px;
+    width: 20%;
+    display: flex;
+    
+}
+.img1{
+    padding-left: 40px;
+}
+.img2{
+    padding-left: 40px;
+}
