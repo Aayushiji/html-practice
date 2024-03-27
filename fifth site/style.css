@@ -1,0 +1,58 @@
+table th , td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+.a{
+    text-align: center;
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+    
+
+}
+.b{
+    text-align: center;
+    list-style-type: square;
+    list-style-position: inside;
+}
+.c{
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+a:link{
+    columns: red;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: coral;
+}
+a:active{
+    color: blue;
+}
+
+div{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+div:hover {
+    background-color: green;
+}
+
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1.0;
+}
+

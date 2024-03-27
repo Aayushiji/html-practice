@@ -1,0 +1,70 @@
+body{
+    display: block;
+    border: solid green;
+    border-width: 60px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.form{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin: 5px;
+}
+.text1{
+    text-align: center;
+    margin: 30px;  
+}
+.text2{
+    text-align: center;
+    margin: 20px;
+}
+.text3{
+    text-align: center;
+    margin: 30px;
+}
+.text4{
+    text-align: center;
+    margin: 30px;
+}
+.text5{
+    text-align: center;
+    margin: 30px;
+}
+.text6{
+    text-align: center;
+    margin: 30px;
+}
+.text7{
+    text-align: center;
+    margin: 30px;
+}
+.sub{
+    margin: 20px;
+    background-color: gray;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+
+   
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-content {
+    display: none;
+    position: relative;
+    min-width: 160px;
+    padding-left: 350px;
+    height: 20px;
+    width: 30px;
+    
+}
+
+.subm{
+    margin-left: 350px;
+    margin-bottom: 60px;
+}
